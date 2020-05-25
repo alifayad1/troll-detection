@@ -5,7 +5,7 @@ check pdf for full report
 The aim of this project is the detection of Social Media Trolls. A troll is a
 person who makes a deliberately offensive or provocative online post. In other
 words, a troll is a person whose main objective is to start quarrels, spread fake
-information, and provoke people by sending offensive messages. General wely,
+information, and provoke people by sending offensive messages. Generally,
 trolls tend to preserve an anonymous identity so they could feel at ease on social
 media networks.
 In order to maintain the authenticity and quality of the information displayed
